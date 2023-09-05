@@ -7,6 +7,11 @@ sbt/*.jar
 .idea_modules
 *.iml
 
+metastore_db
+spark-warehouse
+.metals
+.vscode
+
 # sbt specific
 build/*.jar
 .cache/
